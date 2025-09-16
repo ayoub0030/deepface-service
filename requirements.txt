@@ -6,3 +6,7 @@ Pillow==10.4.0
 opencv-python-headless==4.10.0.84
 scipy==1.13.1
 
+# Ensure compatibility with retinaface on TF 2.20
+tensorflow==2.20.0
+tf-keras==2.20.0
+
